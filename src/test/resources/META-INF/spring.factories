@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = org.omer.candidate.\
+    config.TestContainersSpringContextCustomizerFactory,org.omer.candidate.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
